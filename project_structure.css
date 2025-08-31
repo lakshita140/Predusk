@@ -1,0 +1,13 @@
+hrd-qa-agent/
+├── backend/
+│   ├── main.py
+│   ├── requirements.txt
+├── frontend/
+│   ├── src/
+│   │   └── App.jsx
+│   ├── package.json
+│   ├── vite.config.js
+├── gold_set.json
+├── .env.example
+├── .gitignore
+├── README.md
